@@ -56,7 +56,7 @@ The dashboard was designed to provide a clear overview of customer churn and ret
 
 ### Dashboard Preview
 
-![Customer Churn Analysis Dashboard](Dashboard/Customer_Churn_Dashboard.png)
+![Customer Churn Analysis Dashboard](Dashboard/https://github.com/Sumalatha-Mothukuru/Customer-Churn-Analysis/blob/main/customer%20churn%20analysis%20.png)
 
 
 
